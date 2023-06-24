@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Michael kamau",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,6 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/mik284/backend_tut"
 	}
 }
